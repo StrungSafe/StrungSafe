@@ -1,5 +1,7 @@
 ### Hi there, I'm Miguel 👋
 
+- 👈 Link, is an eccentric black cat
+
 <!--
 **StrungSafe/StrungSafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
